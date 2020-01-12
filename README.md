@@ -1,4 +1,4 @@
-# First Webpage
+# My First Webpage
 
 ## This Website was built with 
 
@@ -9,4 +9,6 @@
 ### JS
 
 # Enjoy!
+
+Website built by Eddie (@edcod3)
 
